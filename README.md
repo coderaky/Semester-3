@@ -2,6 +2,20 @@
 
 > Notes and papers for 3rd Semester.
 > Star 🌟 it you find helpful.
+
+</br>
+
+|  #  |      Subject    |   Files   |
+|-----|----------------|---------------|
+| 1 | BCS-11(Digital Circuits and Logic Design) | [Link](../main/BCS-11(Digital Circuits and Logic Design))|
+| 2 | BCS-12(Principles of Data Structures through C and C++) | [Link](../main/BCS-12(Principles of Data Structures through C and C++))|
+| 3 | BCS-13(Internet and Java Programming) | [Link](../main/BCS-13(Internet and Java Programming))|
+| 4 | BAS-24(Applied Computational Methods) | [Link](../main/BAS-24(Applied Computational Methods))|
+| 5 | BAS-27(Discrete Mathematics) | [Link](../main/BAS-27(Discrete Mathematics))|
+| 6 | Human values | [Link](../main/Human values)|
+| 7 | MAS(Geramn) | [Link](../main/MAS(German))|
+
+</br>
 ## AMA(Ask me Anything)
 
 
