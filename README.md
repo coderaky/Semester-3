@@ -5,23 +5,13 @@
 > Star 🌟 it you find helpful.
 ## AMA(Ask me Anything)
 
-- **No problem! Reach out to me at website at <a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
-
-<h1 align="center">
-✨ Where you can find me ✨
-
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/coderaky/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/coderaky">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
 
 
-  <br/>
+[![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
+[![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub coderaky](https://img.shields.io/github/followers/coderaky?label=follow&style=social)](https://github.com/coderaky)
+
+<p align="left">
   <a href="https://www.facebook.com/coderaky">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
   </a>
@@ -43,3 +33,7 @@
 
 ## Open for contributions
 - **Fork and generate pull request**
+
+</br>
+
+**<a href="http://coderaky.com" target="_blank">`coderaky.com`</a>**
