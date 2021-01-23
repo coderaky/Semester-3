@@ -1,7 +1,6 @@
 # ☕️ Semester-3
 
 > Notes and papers for 3rd Semester.
-</br>
 > Star 🌟 it you find helpful.
 ## AMA(Ask me Anything)
 
