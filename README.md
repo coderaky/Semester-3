@@ -1,7 +1,7 @@
 # ☕️ Semester-3
 
 > Notes and papers for 3rd Semester.
-> Star 🌟 it you find helpful.
+> Star 🌟 it & Follow if found helpful.
 
 </br>
 
