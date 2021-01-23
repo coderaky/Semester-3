@@ -17,9 +17,6 @@
 
 </br>
 
-## AMA(Ask me Anything)
-
-
 
 [![Twitter: coderaky](https://img.shields.io/twitter/follow/coderaky?style=social)](https://twitter.com/coderaky)
 [![Linkedin: coderaky](https://img.shields.io/badge/-coderaky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/coderaky/)](https://www.linkedin.com/in/coderaky/)
