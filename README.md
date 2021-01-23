@@ -11,7 +11,7 @@
 | 2 | BCS-12(Principles of Data Structures through C and C++) | [Link](../main/BCS-12(Principles of Data Structures through C and C++))|
 | 3 | BCS-13(Internet and Java Programming) | [Link](../main/BCS-13(Internet and Java Programming))|
 | 4 | BAS-24(Applied Computational Methods) | [Link](../main/BAS-24(Applied Computational Methods))|
-| 5 | BAS-27(Discrete Mathematics) | [Link](../main/BAS-27(Discrete Mathematics))|
+| 5 | BAS-27(Discrete Mathematics) | [Link](../main/BAS-27(Discrete%20Mathematics))|
 | 6 | Human values | [Link](../main/Human%20values)|
 | 7 | MAS(Geramn) | [Link](../main/MAS(German))|
 
